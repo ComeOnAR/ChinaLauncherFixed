@@ -1,0 +1,3 @@
+Version=2.0.0
+DownloadUrl=http://yourupdateserver.com/InternalTesting/YourAppSetup_v2.0.0.exe
+Released=false
